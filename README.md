@@ -1,6 +1,6 @@
 # Theme Samples
 
-This sample color theme extension contains two TextMate themes. 
+This sample color theme extension contains two TextMate themes.
 
 Text Mate themes describe the theming rules used for syntax highlighting. Each rule consists of one or more scope selectors and a set of styles. To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
 
@@ -8,13 +8,16 @@ You can directly use .tmTheme files in your extensions or import/convert them wi
 
 ## Demo
 
-Sample Light
-
-![Sample light](./demo-light.png)
 
 Sample Dark
 
 ![Sample dark](./demo-dark.png)
+
+## Midnight Eclipse Dark
+
+A deep black, pastel-accented VS Code theme made with Heet Mehta.
+
+![Theme Preview](icon.png)
 
 ## VS Code API
 
@@ -32,3 +35,9 @@ Sample Dark
 
 - You can relaunch the extension from the debug toolbar after making changes to the files listed above.
 - You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
+made by heet mehta
+## Theme Preview
+
+![Midnight Eclipse Dark Preview](./demo-dark.png)
+
+Creator: HEET MEHTA

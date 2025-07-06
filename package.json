@@ -1,7 +1,10 @@
 {
-	"name": "twilight-lotus-dark",
-	"version": "0.1.0",
-	"publisher": "heetmehta",
+	"name": "midnight-eclipse-dark",
+	"displayName": "Midnight Eclipse Dark",
+	"description": "A deep black, pastel-accented VS Code theme made with Heet Mehta.",
+	"version": "0.1.2",
+	"publisher": "heetmehta18",
+	"icon": "icon.png",
 	"private": true,
 	"license": "MIT",
 	"repository": {
@@ -14,7 +17,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Twilight Lotus Dark",
+				"label": "Midnight Eclipse Dark",
 				"uiTheme": "vs-dark",
 				"path": "./twilight-lotus-dark-color-theme.json"
 			}
