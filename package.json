@@ -1,10 +1,10 @@
 {
 	"name": "midnight-eclipse-dark",
 	"displayName": "Midnight Eclipse Dark",
-	"description": "A deep black, pastel-accented VS Code theme made with Heet Mehta.",
-	"version": "0.1.2",
+	"description": "A deep black, pastel-accented VS Code theme made by Heet Mehta.",
+	"version": "1.0.1",
 	"publisher": "heetmehta18",
-	"icon": "icon.png",
+	"icon": "images/icon.png",
 	"private": true,
 	"license": "MIT",
 	"repository": {

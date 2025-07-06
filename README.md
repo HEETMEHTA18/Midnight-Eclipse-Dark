@@ -14,7 +14,7 @@ Sample Dark
 
 ## Midnight Eclipse Dark
 
-A deep black, pastel-accented VS Code theme made with Heet Mehta.
+A deep black, pastel-accented VS Code theme made by - *Heet Mehta*.
 
 ![Theme Preview](./images/icon.png)
 
