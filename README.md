@@ -1,4 +1,4 @@
-# Theme Samples
+#  Midnight Eclipse Dark
 
 This sample color theme extension contains two TextMate themes.
 
@@ -8,7 +8,6 @@ You can directly use .tmTheme files in your extensions or import/convert them wi
 
 ## Demo
 
-
 Sample Dark
 
 ![Sample dark](./images/demo-dark.png)
@@ -17,7 +16,7 @@ Sample Dark
 
 A deep black, pastel-accented VS Code theme made with Heet Mehta.
 
-![Theme Preview](icon.png)
+![Theme Preview](./images/icon.png)
 
 ## VS Code API
 
