@@ -10,7 +10,7 @@ You can directly use .tmTheme files in your extensions or import/convert them wi
 
 Sample Dark
 
-![Sample dark](./images/demo-dark.png)
+![Sample dark](./images/image.png)
 
 ## Midnight Eclipse Dark
 
@@ -37,6 +37,6 @@ A deep black, pastel-accented VS Code theme made by - *Heet Mehta*.
 made by heet mehta
 ## Theme Preview
 
-![Midnight Eclipse Dark Preview](./images/demo-dark.png)
+![Midnight Eclipse Dark Preview](./images/image.png)
 
 Creator: HEET MEHTA
